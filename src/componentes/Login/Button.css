@@ -1,0 +1,42 @@
+.options{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.conta{
+    margin-top: 120px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.conta a{
+    color: #898A93;
+    font-weight: 500;
+    font-size: 12px;
+}
+.conta span{
+    color: #F3A95C;
+}
+.login button{
+    border: none;
+    background-color: #D1D1D6;
+    width: 100px;
+    height: 45px;
+    border-radius: 5px;
+
+}
+.login button a{
+    color: #898A93;
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    
+}
+.options a{
+    color: #898A93;
+    font-size: 14px;
+    font-weight: 600;
+    color: #213950;
+    cursor: pointer;
+}

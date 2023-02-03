@@ -1,0 +1,14 @@
+.login{
+    position: absolute;
+    padding: 100px;
+}
+
+.login img{
+    height: 40px;
+   
+}
+.login h1{
+    margin: 140px 0px 40px auto;
+    color:rgb(33,57,80);
+    font-weight: 600;
+}
